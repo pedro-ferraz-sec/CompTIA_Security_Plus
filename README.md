@@ -34,7 +34,7 @@ Você não precisa saber usar o GitHub para estudar com este material. A ideia �
 
 1. No GitHub, abra a pasta do domínio e clique no arquivo que quer estudar.
 2. Selecione todo o texto (`Ctrl + A`) e copie (`Ctrl + C`).
-3. Abra o [Google Docs](https://docs.google.com), crie um documento em branco e cole (`Ctrl + V`).
+3. Abra o **Google Docs**, crie um documento em branco e cole (`Ctrl + V`).
 4. Dê um nome ao documento, por exemplo "Meu Estudo - Domínio 1".
 5. Estude direto nesse documento: grife, escreva suas anotações e responda às atividades ali mesmo. Tudo fica salvo automaticamente no seu Drive.
 
